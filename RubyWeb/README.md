@@ -8,6 +8,7 @@
 `gem update --system` -> update latest RubyGems
 
 - Install Bundler to manage ruby application's gem (Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed)
+
 `gem install bundler`
 
 `bundler init`
